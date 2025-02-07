@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-## 🌟 Featured Project!
+## 🌟 Featured Projects!
 - **[A Night at Home 2.0](https://github.com/nadelaja/a-night-at-home-2.0)** - An interactive branching narrative gave with a custom interface.
 
 - **[Broker Breaker](https://github.com/nadelaja/not-a-vs-clone)** - A Vampire Survivors inspired game about a burned-out Wall Street employee.
