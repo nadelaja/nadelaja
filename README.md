@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 🌟 Featured Project!
 - **[A Night at Home 2.0](https://github.com/nadelaja/a-night-at-home-2.0)** - An interactive branching narrative gave with a custom interface.
 
-- **[Broker Breaker](https://github.com/nadelaja/not-a-vs-clone)** - A Vampire Survivors inspired game about a burned-out Wall Street employee who Fueled by rage and a desire to escape the greed and chaos of the concrete jungle snaps, unleashing elemental powers as they embark on a destructive adventure to gain freedom from the city that consumed their soul.
+- **[Broker Breaker](https://github.com/nadelaja/not-a-vs-clone)** - A Vampire Survivors inspired game about a burned-out Wall Street employee.
 
 
 ## 🎯 Current Focus
