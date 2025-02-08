@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - Building more interactive web experiences
 
 ## 📫 Let's Connect
-- Portfolio: [itsmejummy](itsmejummy.com)
+<!-- - Portfolio: [itsmejummy](itsmejummy.com)-->
 - Email: [nadelaja@terpmail.umd.edu]
 
 ---
