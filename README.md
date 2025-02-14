@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 
 ## 🎯 Current Focus
-- Deepening my understanding of React and Next.js
-- Experimenting with creative CSS animations
+- Experimenting with creative coding
 - Building more interactive web experiences
 
 ## 📫 Let's Connect
