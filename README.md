@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ## About Me
 🎓 Graduate student studying Human Computer Interaction
 
-🎨 Front-end developer passionate about creating engaging web experiences
-
 🌐 Crafting fun and interactive (single-page) websites
 
 📚 Currently exploring React and Next.js
