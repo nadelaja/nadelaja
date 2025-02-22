@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <!-- - Portfolio: [itsmejummy](itsmejummy.com)-->
 - Email: [nadelaja@terpmail.umd.edu]
 
----
-⭐️ From [Jummy](https://github.com/nadelaja)
+<!----
+⭐️ From [Jummy](https://github.com/nadelaja) -->
