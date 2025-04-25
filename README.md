@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 🎓 Graduate student studying Human Computer Interaction
 
-🌐 Crafting fun and interactive (single-page) websites
+🌐 Crafting fun and interactive pages
 
 📚 Currently exploring React and Next.js
 
