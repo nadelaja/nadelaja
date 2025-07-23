@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I'm Jummy
 
 ## About Me
 🎓 Graduate student studying Human Computer Interaction
